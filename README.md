@@ -1,4 +1,7 @@
 # 🚗 Road Accident Analysis
+<img width="1375" height="774" alt="image" src="https://github.com/user-attachments/assets/0c61fc28-3ad1-44f1-82be-8c51f7ecfbec" />
+<img width="1370" height="775" alt="image" src="https://github.com/user-attachments/assets/a15a8d97-2bc0-4dcf-935a-5fc671382645" />
+<img width="1370" height="772" alt="image" src="https://github.com/user-attachments/assets/fe49663a-68b1-474d-b2d0-35ad52008e82" />
 
 ## 📌 Project Overview
 This report provides an extensive analysis of road accidents, identifying key causes, trends, and safety insights. The goal is to understand factors contributing to fatalities and injuries—such as driver behavior, weather conditions, and regional differences—to recommend actionable safety improvements.
