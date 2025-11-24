@@ -1,4 +1,4 @@
-# 🚗 Road Accident Analysis Report
+# 🚗 Road Accident Analysis
 
 ## 📌 Project Overview
 This report provides an extensive analysis of road accidents, identifying key causes, trends, and safety insights. The goal is to understand factors contributing to fatalities and injuries—such as driver behavior, weather conditions, and regional differences—to recommend actionable safety improvements.
